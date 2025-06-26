@@ -1,4 +1,5 @@
-<!---[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fnwchemgit%2Fnwchem%2Fbadge%3Fref%3Dmaster&style=flat)](https://actions-badge.atrox.dev/nwchemgit/nwchem/goto?ref=master)--->
+<!---[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fnwchemgit%2Fnwchem%2Fbadge%3Fref%3Dmaster&style=flat)](https://actions-badge.atrox.dev/nwchemgit/nwchem/goto?ref=master)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNK-KIPU%2Ftest.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNK-KIPU%2Ftest?ref=badge_shield)
+--->
 [![NWChem_CI](https://img.shields.io/github/actions/workflow/status/nwchemgit/nwchem/github_actions.yml?style=plastic)](https://github.com/nwchemgit/nwchem/actions)   
 <!---[![Build Travis-CI Status](https://img.shields.io/travis/nwchemgit/nwchem.svg)](https://travis-ci.org/nwchemgit/nwchem/builds)--->
 [![License](https://img.shields.io/badge/license-ECL2-blue.svg)](https://raw.githubusercontent.com/nwchemgit/nwchem/master/LICENSE.md)  
@@ -41,3 +42,7 @@ https://raw.githubusercontent.com/nwchemgit/nwchem/v7.0.2-release/release.notes.
 
 ### Documentation
 https://nwchemgit.github.io
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNK-KIPU%2Ftest.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNK-KIPU%2Ftest?ref=badge_large)
